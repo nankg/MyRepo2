@@ -1,2 +1,2 @@
 # MyRepo2
-This is my second repo
+This is 1st branch of my second repo
