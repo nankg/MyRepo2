@@ -1,1 +1,1 @@
-MyRepo2 -- Branch2
+MyRepo2 -- Branch2.
