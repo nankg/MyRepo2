@@ -1,2 +1,1 @@
-# MyRepo2
-This is main branch of MyRepo2
+MyRepo2 -- main branch
